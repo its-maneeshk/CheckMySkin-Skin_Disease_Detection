@@ -1,12 +1,27 @@
-# React + Vite
+# client
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project Name: client
 
-Currently, two official plugins are available:
+## Description:
+Welcome to the client project! As a helpful AI developer assistant, you are about to embark on an exciting journey into the world of AI development. This project utilizes a tech stack including axios, react, react-dom, react-hot-toast, and react-router-dom to empower you in creating innovative solutions. Get ready to enhance your skills and unleash your creativity with client!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Version: 0.0.0
+- Author: [Your Name]
+- Tech stack: axios, react, react-dom, react-hot-toast, react-router-dom
 
-## Expanding the ESLint configuration
+Let's code together and make magic happen! 🚀✨
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+Would you like to add anything else to the README.md file?
+
+## 📦 Version
+
+`0.0.0`
+
+## 👤 Author
+
+Manish Patel
+
+## 🧾 License
+
+Licensed under the MIT License.
